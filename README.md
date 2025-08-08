@@ -29,19 +29,3 @@ The aim is to ensure the most important workflows are functional, user-friendly,
 ---
 ## Test Report
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/12d37249-226c-47fb-92e7-b929f0c595c0" />
-
-## 📂 Repository Structure  
-├── TestCases/
-│   ├── ProductList_TestCases.xlsx
-│   ├── BusinessReport_TestCases.xlsx
-│
-├── BugReports/
-│   ├── DuplicateIncomeSector.md
-│   ├── DiscountFieldValidation.md
-│   ├── StaticDateTime_BusinessReport.md
-│   ├── ProductImageUploadIssue.md
-│   ├── TotalIncomeNotVisible.md
-│   ├── ExpenseNameMissing.md
-│
-├── README.md
-├── README.md
